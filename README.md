@@ -21,13 +21,13 @@ This framework works as data driven. So, user can use excel file and parse all d
 
 5. Explain Test cases
 
-- verifyNameElement
+- verifyNameElement -> 
 Response return Name element and contains “Carbon credits”. 1st test case validates return response include “Carbon credits”
 
-- verifyCanRelistElement
+- verifyCanRelistElement -> 
 Response return CanRelist element and contains “true”. 2nd test case validates return response include “true”
 
-- verifyPromotionsElement
+- verifyPromotionsElement -> 
 Response return Promotions array “Gallery” element and contains “Good position in category”. 3rd test case validate return response include “Good position in category”
 
 
