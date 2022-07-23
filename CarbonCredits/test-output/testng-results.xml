@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10809" started-at="2022-07-22T18:05:05 SGT" finished-at="2022-07-22T18:05:16 SGT">
+  <suite name="Default suite" duration-ms="7010" started-at="2022-07-23T08:18:32 SGT" finished-at="2022-07-23T08:18:39 SGT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10809" started-at="2022-07-22T18:05:05 SGT" finished-at="2022-07-22T18:05:16 SGT">
+    <test name="Default test" duration-ms="7010" started-at="2022-07-23T08:18:32 SGT" finished-at="2022-07-23T08:18:39 SGT">
       <class name="com.services.api.ValidateAttributes">
-        <test-method status="PASS" signature="verifyNameElement()[pri:1, instance:com.services.api.ValidateAttributes@44c8afef]" name="verifyNameElement" duration-ms="9342" started-at="2022-07-22T18:05:05 SGT" finished-at="2022-07-22T18:05:15 SGT">
+        <test-method status="PASS" signature="verifyNameElement()[pri:1, instance:com.services.api.ValidateAttributes@44c8afef]" name="verifyNameElement" duration-ms="5674" started-at="2022-07-23T08:18:32 SGT" finished-at="2022-07-23T08:18:38 SGT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyNameElement -->
-        <test-method status="PASS" signature="verifyCanRelistElement()[pri:2, instance:com.services.api.ValidateAttributes@44c8afef]" name="verifyCanRelistElement" duration-ms="523" started-at="2022-07-22T18:05:15 SGT" finished-at="2022-07-22T18:05:15 SGT">
+        <test-method status="PASS" signature="verifyCanRelistElement()[pri:2, instance:com.services.api.ValidateAttributes@44c8afef]" name="verifyCanRelistElement" duration-ms="344" started-at="2022-07-23T08:18:38 SGT" finished-at="2022-07-23T08:18:38 SGT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCanRelistElement -->
-        <test-method status="PASS" signature="verifyPromotionsElement()[pri:3, instance:com.services.api.ValidateAttributes@44c8afef]" name="verifyPromotionsElement" duration-ms="848" started-at="2022-07-22T18:05:15 SGT" finished-at="2022-07-22T18:05:16 SGT">
+        <test-method status="PASS" signature="verifyPromotionsElement()[pri:3, instance:com.services.api.ValidateAttributes@44c8afef]" name="verifyPromotionsElement" duration-ms="921" started-at="2022-07-23T08:18:38 SGT" finished-at="2022-07-23T08:18:39 SGT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPromotionsElement -->

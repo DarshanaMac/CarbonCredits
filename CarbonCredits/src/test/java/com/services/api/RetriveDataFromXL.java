@@ -19,13 +19,13 @@ public class RetriveDataFromXL {
 		// object of the class
 		RetriveDataFromXL rc = new RetriveDataFromXL();
 		
-		// reading the value of 2nd row and 2nd column
+		// reading the value of  row and column
 		String vOutput = rc.ReadCellData(row, keyvalue);
 		
 		return vOutput;
 	}
 
-	public String ReadCellData(int vRow, int vColumn) {
+	private String ReadCellData(int vRow, int vColumn) {
 
 		// variable for storing the cell value
 		String value = null;
